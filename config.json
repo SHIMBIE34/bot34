@@ -1,0 +1,9 @@
+{
+	"ip":"lichsmp.aternos.me",
+	"port": "37752",
+	"name": "bot1234",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
